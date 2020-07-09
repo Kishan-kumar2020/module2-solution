@@ -1,4 +1,4 @@
-	@media (min-width: 1025px){
+	@media (min-width: 992px){
 		
 		#hd-1{
 		
@@ -115,7 +115,7 @@
 		}
 	}
 		
-	@media (min-width: 768px) and (max-width: 1024px){
+	@media (min-width: 768px) and (max-width: 991px){
 			
 		#hd-1{
 		
@@ -231,7 +231,7 @@
 		
 	}
 	
-	@media (min-width: 318px) and (max-width: 767px){
+	@media (max-width: 767px){
 		
 		#hd-1{
 		
